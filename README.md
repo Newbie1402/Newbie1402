@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/motion-portfolio-v5.svg" alt="Newbie1402 animated backend portfolio" />
+  <img src="./assets/discord-portfolio-v6.svg" alt="Newbie1402 Discord-inspired backend portfolio" />
 </p>
 
 <!--
