@@ -1,13 +1,5 @@
 <p align="center">
-  <img src="./assets/deck-01-cover.svg" alt="Newbie1402 backend portfolio cover" />
-</p>
-
-<p align="center">
-  <img src="./assets/deck-02-stack.svg" alt="Newbie1402 technical stack" />
-</p>
-
-<p align="center">
-  <img src="./assets/deck-03-work.svg" alt="Newbie1402 project focus and contact" />
+  <img src="./assets/motion-portfolio-v5.svg" alt="Newbie1402 animated backend portfolio" />
 </p>
 
 <!--
