@@ -1,125 +1,76 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:111827,45:16A34A,100:38BDF8&text=Newbie1402&fontColor=F8FAFC&fontSize=58&fontAlignY=38&desc=Backend%20Developer%20%7C%20Spring%20Boot%20%7C%20Clean%20Systems&descAlignY=58&animation=fadeIn" alt="Newbie1402 profile banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:020617,45:16A34A,100:0EA5E9&text=Newbie1402&fontColor=F8FAFC&fontSize=56&fontAlignY=38&desc=Backend%20Developer%20%7C%20Spring%20Boot%20%7C%20Clean%20Systems&descAlignY=58&animation=fadeIn" alt="Newbie1402 banner" />
 </p>
-
-<p align="center">
-  <a href="https://github.com/Newbie1402">
-    <img src="https://komarev.com/ghpvc/?username=Newbie1402&style=for-the-badge&color=16A34A&label=PROFILE+VIEWS" alt="Profile views" />
-  </a>
-  <img src="https://img.shields.io/badge/Focus-Backend%20Architecture-111827?style=for-the-badge&labelColor=020617&color=16A34A" alt="Focus backend architecture" />
-  <img src="https://img.shields.io/badge/Open%20to-Collaboration-111827?style=for-the-badge&labelColor=020617&color=38BDF8" alt="Open to collaboration" />
-</p>
-
-<br />
-
-<table>
-  <tr>
-    <td width="58%">
-
-### Hey, I'm Newbiew
-
-I build backend systems that stay readable when the feature list gets noisy. Most of my time goes into Java, Spring Boot, APIs, relational databases, and the little engineering choices that make a product easier to extend later.
-
-```txt
-role        Backend Developer
-core        Java / Spring Boot / PHP / Laravel / Python
-frontend    React, HTML, CSS, Bootstrap, JavaScript
-database    PostgreSQL, MySQL, MariaDB
-cloud       AWS basics
-mindset     simple code, strong boundaries, useful products
-```
-
-    </td>
-    <td width="42%">
-      <img src="https://github-readme-stats.vercel.app/api?username=Newbie1402&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=16A34A&text_color=CBD5E1" alt="Newbie1402 GitHub stats" />
-    </td>
-  </tr>
-</table>
-
----
-
-### Tech stack
-
-<p>
-  <img src="https://skillicons.dev/icons?i=java,spring,php,laravel,python" alt="Backend stack: Java, Spring, PHP, Laravel, Python" />
-</p>
-
-<p>
-  <img src="https://skillicons.dev/icons?i=react,html,css,bootstrap,js" alt="Frontend stack: React, HTML, CSS, Bootstrap, JavaScript" />
-</p>
-
-<p>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,mariadb,aws,docker,github,postman,vscode,idea,webstorm" alt="Tools: PostgreSQL, MySQL, MariaDB, AWS, Docker, GitHub, Postman, VS Code, IntelliJ IDEA, WebStorm" />
-</p>
-
----
-
-### What I like building
-
-<table>
-  <tr>
-    <td width="33%">
-      <h4>API backends</h4>
-      <p>REST services with clear DTOs, validation, predictable errors, and service layers that do the real work.</p>
-    </td>
-    <td width="33%">
-      <h4>Data-heavy flows</h4>
-      <p>Import, search, mapping, and database logic where correctness matters more than cleverness.</p>
-    </td>
-    <td width="33%">
-      <h4>Product polish</h4>
-      <p>Small frontend touches, clean documentation, and developer experience improvements that make projects easier to use.</p>
-    </td>
-  </tr>
-</table>
-
----
-
-### Current toolkit
-
-```yaml
-backend:
-  - Java 21
-  - Spring Boot
-  - Laravel
-  - Python
-
-database:
-  - PostgreSQL
-  - MySQL
-  - MariaDB
-
-workflow:
-  - GitHub
-  - Docker
-  - Postman
-  - JetBrains IDEs
-```
-
----
-
-### GitHub activity
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=Newbie1402&layout=compact&langs_count=8&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=CBD5E1" alt="Top languages" />
-  <img height="165" src="https://streak-stats.demolab.com?user=Newbie1402&theme=github-dark-blue&hide_border=true&background=0D1117&ring=16A34A&fire=38BDF8&currStreakLabel=38BDF8" alt="GitHub streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Newbie1402&theme=github-compact&hide_border=true&area=true&bg_color=0D1117&color=CBD5E1&line=16A34A&point=38BDF8&area_color=16A34A" alt="GitHub activity graph" />
-</p>
-
----
-
-### Connect
 
 <p align="center">
   <a href="https://github.com/Newbie1402">
     <img src="https://img.shields.io/badge/GitHub-Newbie1402-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Newbie1402" />
   </a>
-  <img src="https://img.shields.io/badge/Portfolio-Coming%20soon-0D1117?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio coming soon" />
+  <img src="https://komarev.com/ghpvc/?username=Newbie1402&style=for-the-badge&color=16A34A&label=PROFILE+VIEWS" alt="Profile views" />
+  <img src="https://img.shields.io/badge/Focus-Backend%20Architecture-111827?style=for-the-badge&labelColor=020617&color=16A34A" alt="Backend Architecture" />
+  <img src="https://img.shields.io/badge/Stack-Java%20%2B%20Spring-111827?style=for-the-badge&labelColor=020617&color=0EA5E9" alt="Java and Spring" />
 </p>
 
+---
+
+## Hey, I'm Newbiew
+
+I build backend systems that stay readable when the feature list gets noisy. Most of my work sits around Java, Spring Boot, APIs, relational databases, and practical product features that are easy to maintain later.
+
+```txt
+role      Backend Developer
+core      Java / Spring Boot / PHP / Laravel / Python
+frontend  React / HTML / CSS / Bootstrap / JavaScript
+database  PostgreSQL / MySQL / MariaDB
+cloud     AWS basics
+style     simple code, clear boundaries, useful products
+```
+
+---
+
+## Tech stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,spring,php,laravel,python" alt="Backend stack" />
+</p>
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,html,css,bootstrap,js" alt="Frontend stack" />
+</p>
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mariadb,aws,docker,github,postman,vscode,idea,webstorm" alt="Database and tools" />
+</p>
+
+---
+
+## What I like building
+
+| API backends | Data-heavy flows | Product polish |
+| --- | --- | --- |
+| REST services with clean DTOs, validation, predictable errors, and service layers that do the real work. | Import, search, mapping, and database logic where correctness matters more than cleverness. | Small frontend touches, clean documentation, and developer experience improvements that make projects easier to use. |
+
+---
+
+## Current toolkit
+
+| Backend | Database | Workflow |
+| --- | --- | --- |
+| Java 21 | PostgreSQL | GitHub |
+| Spring Boot | MySQL | Docker |
+| Laravel | MariaDB | Postman |
+| Python |  | JetBrains IDEs |
+
+---
+
+## GitHub activity
+
 <p align="center">
-  <sub>Built with a clean dark skin, sharp cards, and backend energy.</sub>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Newbie1402&theme=github-compact&hide_border=true&area=true&bg_color=0D1117&color=CBD5E1&line=16A34A&point=0EA5E9&area_color=16A34A" alt="Newbie1402 contribution graph" />
+</p>
+
+---
+
+<p align="center">
+  <sub>Clean backend energy, a little frontend taste, and fewer things that break when GitHub renders the page.</sub>
 </p>
