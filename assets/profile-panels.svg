@@ -1,0 +1,60 @@
+<svg width="1200" height="460" viewBox="0 0 1200 460" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Newbie1402 stack and build focus cards</title>
+  <desc id="desc">Modern dark cards describing the stack, build focus, and daily toolkit for Newbie1402.</desc>
+  <defs>
+    <linearGradient id="stroke" x1="54" y1="48" x2="1136" y2="414" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#22C55E"/>
+      <stop offset="0.55" stop-color="#14B8A6"/>
+      <stop offset="1" stop-color="#38BDF8"/>
+    </linearGradient>
+    <linearGradient id="card" x1="58" y1="70" x2="1118" y2="420" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0F172A"/>
+      <stop offset="1" stop-color="#020617"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="460" rx="30" fill="#020617"/>
+  <circle cx="160" cy="88" r="170" fill="#22C55E" fill-opacity="0.08"/>
+  <circle cx="1045" cy="390" r="190" fill="#38BDF8" fill-opacity="0.08"/>
+
+  <text x="64" y="68" font-family="Arial, Helvetica, sans-serif" font-size="26" font-weight="900" fill="#F8FAFC">Developer skin</text>
+  <text x="64" y="98" font-family="Arial, Helvetica, sans-serif" font-size="15" fill="#94A3B8">A compact map of what I use and what I care about when building software.</text>
+
+  <g transform="translate(64 132)">
+    <rect width="330" height="254" rx="22" fill="url(#card)" stroke="#1E293B"/>
+    <rect x="0.5" y="0.5" width="329" height="253" rx="21.5" stroke="url(#stroke)" stroke-opacity="0.28"/>
+    <text x="28" y="42" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="900" fill="#86EFAC">CORE STACK</text>
+    <text x="28" y="86" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="800" fill="#F8FAFC">Java • Spring Boot</text>
+    <text x="28" y="124" font-family="Arial, Helvetica, sans-serif" font-size="15" fill="#CBD5E1">PHP • Laravel • Python</text>
+    <text x="28" y="162" font-family="Arial, Helvetica, sans-serif" font-size="15" fill="#CBD5E1">React • Bootstrap • JavaScript</text>
+    <rect x="28" y="196" width="118" height="34" rx="17" fill="#052E1A"/>
+    <text x="87" y="218" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="800" fill="#86EFAC">BACKEND</text>
+    <rect x="158" y="196" width="110" height="34" rx="17" fill="#082F49"/>
+    <text x="213" y="218" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="800" fill="#7DD3FC">API FIRST</text>
+  </g>
+
+  <g transform="translate(435 132)">
+    <rect width="330" height="254" rx="22" fill="url(#card)" stroke="#1E293B"/>
+    <rect x="0.5" y="0.5" width="329" height="253" rx="21.5" stroke="url(#stroke)" stroke-opacity="0.28"/>
+    <text x="28" y="42" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="900" fill="#7DD3FC">BUILD FOCUS</text>
+    <text x="28" y="86" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="800" fill="#F8FAFC">Readable service layers</text>
+    <text x="28" y="124" font-family="Arial, Helvetica, sans-serif" font-size="15" fill="#CBD5E1">Clean DTOs and validation</text>
+    <text x="28" y="162" font-family="Arial, Helvetica, sans-serif" font-size="15" fill="#CBD5E1">Database flows that stay correct</text>
+    <path d="M28 204H282" stroke="#1E293B"/>
+    <text x="28" y="230" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#94A3B8">Make the product easier to change later.</text>
+  </g>
+
+  <g transform="translate(806 132)">
+    <rect width="330" height="254" rx="22" fill="url(#card)" stroke="#1E293B"/>
+    <rect x="0.5" y="0.5" width="329" height="253" rx="21.5" stroke="url(#stroke)" stroke-opacity="0.28"/>
+    <text x="28" y="42" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="900" fill="#CBD5E1">DAILY TOOLKIT</text>
+    <text x="28" y="86" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="800" fill="#F8FAFC">PostgreSQL • MySQL</text>
+    <text x="28" y="124" font-family="Arial, Helvetica, sans-serif" font-size="15" fill="#CBD5E1">Docker • Postman • GitHub</text>
+    <text x="28" y="162" font-family="Arial, Helvetica, sans-serif" font-size="15" fill="#CBD5E1">IntelliJ IDEA • WebStorm • VS Code</text>
+    <rect x="28" y="196" width="92" height="34" rx="17" fill="#111827"/>
+    <text x="74" y="218" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="800" fill="#F8FAFC">AWS</text>
+    <rect x="132" y="196" width="128" height="34" rx="17" fill="#111827"/>
+    <text x="196" y="218" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="800" fill="#F8FAFC">JAVA 21</text>
+  </g>
+
+  <text x="64" y="426" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#64748B">Profile style inspired by polished GitHub README skin generators, tuned to render safely on GitHub.</text>
+</svg>
