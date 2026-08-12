@@ -1,5 +1,13 @@
 <p align="center">
-  <img src="./assets/arcane-profile-v9.svg" alt="Newbie1402 arcane Discord-style backend portfolio" />
+  <img src="./assets/profile-hero-v13.svg" alt="Newbie1402 backend portfolio hero" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,php,laravel,python,react,html,css,bootstrap,js,postgres,mysql,aws,docker,github,postman,vscode,idea&theme=dark" alt="Tech stack icons" />
+</p>
+
+<p align="center">
+  <b>Backend Developer</b> · Java 21 · Spring Boot · Laravel · SQL · Docker · Postman
 </p>
 
 <!--
