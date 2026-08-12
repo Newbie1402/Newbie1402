@@ -63,6 +63,16 @@ I build backend-first products with readable APIs, clear service ownership, pred
 
 <br />
 
+## A few things I keep close
+
+<p align="center">
+  <a href="https://github.com/Newbie1402/Doctor-Appointment-Booking-System"><img src="https://img.shields.io/github/stars/Newbie1402/Doctor-Appointment-Booking-System?style=for-the-badge&label=DOCTOR%20BOOKING&color=f5d06f&labelColor=111827" alt="Doctor Appointment Booking System" /></a>
+  <a href="https://github.com/Newbie1402/Boilerplate_SpringBoot"><img src="https://img.shields.io/github/stars/Newbie1402/Boilerplate_SpringBoot?style=for-the-badge&label=SPRING%20BOOT%20BASE&color=22d3ee&labelColor=111827" alt="Spring Boot boilerplate" /></a>
+  <a href="https://github.com/Newbie1402/EV_Battery_SwapStation_MS"><img src="https://img.shields.io/github/stars/Newbie1402/EV_Battery_SwapStation_MS?style=for-the-badge&label=EV%20SWAP%20SYSTEM&color=8b5cf6&labelColor=111827" alt="EV Battery Swap Station" /></a>
+</p>
+
+<br />
+
 ## How I think about a feature
 
 ```text
@@ -83,6 +93,10 @@ The goal is simple: build backend-first products that are easy to extend, explai
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Newbie1402&hide_border=true&background=0D1117&ring=8B5CF6&fire=F5D06F&currStreakLabel=22D3EE&sideLabels=C9D1D9&dates=8B949E" alt="GitHub contribution streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Newbie1402&bg_color=0d1117&color=c9d1d9&line=8b5cf6&point=f5d06f&area=true&hide_border=true" alt="GitHub activity graph" />
 </p>
 
 <br />
