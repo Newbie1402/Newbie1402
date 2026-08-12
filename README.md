@@ -15,20 +15,21 @@
 
 ## Hey, I'm Newbiew
 
-I build backend systems that stay readable when the feature list gets noisy. Most of my work sits around Java, Spring Boot, APIs, relational databases, and practical product features that are easy to maintain later.
+Backend developer focused on clean APIs, readable service layers, and database-backed systems that are easy to maintain after the first release.
 
-```txt
-role      Backend Developer
-core      Java / Spring Boot / PHP / Laravel / Python
-frontend  React / HTML / CSS / Bootstrap / JavaScript
-database  PostgreSQL / MySQL / MariaDB
-cloud     AWS basics
-style     simple code, clear boundaries, useful products
-```
+| Role | Core stack | Working style |
+| --- | --- | --- |
+| Backend Developer | Java, Spring Boot, PHP, Laravel, Python | Simple code, clear boundaries, useful products |
+
+<p align="left">
+  <img src="https://img.shields.io/badge/API%20Design-REST%20%2F%20DTO%20%2F%20Validation-0D1117?style=flat-square&labelColor=111827&color=16A34A" alt="API design" />
+  <img src="https://img.shields.io/badge/Data-PostgreSQL%20%2F%20MySQL%20%2F%20MariaDB-0D1117?style=flat-square&labelColor=111827&color=0EA5E9" alt="Databases" />
+  <img src="https://img.shields.io/badge/Frontend-React%20%2B%20Bootstrap-0D1117?style=flat-square&labelColor=111827&color=64748B" alt="Frontend" />
+</p>
 
 ---
 
-## Tech stack
+## Stack map
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=java,spring,php,laravel,python" alt="Backend stack" />
@@ -44,15 +45,15 @@ style     simple code, clear boundaries, useful products
 
 ---
 
-## What I like building
+## Build focus
 
-| API backends | Data-heavy flows | Product polish |
+| Clean backend APIs | Data-heavy workflows | Product-minded details |
 | --- | --- | --- |
-| REST services with clean DTOs, validation, predictable errors, and service layers that do the real work. | Import, search, mapping, and database logic where correctness matters more than cleverness. | Small frontend touches, clean documentation, and developer experience improvements that make projects easier to use. |
+| REST endpoints, DTOs, validation, predictable errors, and service layers that keep logic in the right place. | Import, search, mapping, and database logic where correctness matters more than cleverness. | Small UI touches, clear documentation, and developer experience improvements that make projects easier to use. |
 
 ---
 
-## Current toolkit
+## Daily toolkit
 
 | Backend | Database | Workflow |
 | --- | --- | --- |
@@ -63,7 +64,7 @@ style     simple code, clear boundaries, useful products
 
 ---
 
-## GitHub activity
+## Contribution pulse
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Newbie1402&theme=github-compact&hide_border=true&area=true&bg_color=0D1117&color=CBD5E1&line=16A34A&point=0EA5E9&area_color=16A34A" alt="Newbie1402 contribution graph" />
