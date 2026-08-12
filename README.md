@@ -3,9 +3,8 @@
 </p>
 
 <p align="center">
+  <a href="https://portfolio-fawn-kappa-66.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-visit-f5d06f?style=for-the-badge&labelColor=111827" alt="Portfolio" /></a>
   <img src="https://komarev.com/ghpvc/?username=Newbie1402&style=for-the-badge&color=8b5cf6&label=PROFILE+VIEWS" alt="Profile views" />
-  <img src="https://img.shields.io/badge/main-Java%20%2B%20Spring%20Boot-f5d06f?style=for-the-badge&labelColor=111827&color=f5d06f" alt="Main stack" />
-  <img src="https://img.shields.io/badge/mode-clean%20backend%20systems-22d3ee?style=for-the-badge&labelColor=111827&color=22d3ee" alt="Mode" />
 </p>
 
 <p align="center">
@@ -13,74 +12,68 @@
 </p>
 
 <p align="center">
-  <a href="https://portfolio-fawn-kappa-66.vercel.app/">portfolio</a>
+  <a href="https://discordapp.com/users/577015820794855424">discord</a>
   ·
   <a href="https://github.com/Newbie1402">github</a>
   ·
-  <a href="https://discordapp.com/users/577015820794855424">discord</a>
+  <a href="https://portfolio-fawn-kappa-66.vercel.app/">portfolio</a>
 </p>
 
 <br />
 
-## A calm approach to complex systems
+## I like the hard-to-see parts
 
-I build backend-first products with readable APIs, clear service ownership, predictable validation, and database flows that stay understandable as the feature list grows.
+Readable APIs. Calm service layers. Data that does not surprise the next person who has to change it.
 
 <table>
   <tr>
-    <td width="33%"><strong>01 · API craft</strong><br /><br />REST endpoints, DTOs, validation and errors that are easy to reason about.</td>
-    <td width="33%"><strong>02 · Data flow</strong><br /><br />Import, search, mapping and persistence logic where correctness matters.</td>
-    <td width="33%"><strong>03 · Product detail</strong><br /><br />Small frontend touches and documentation that make software easier to use.</td>
+    <td width="58%"><strong>My working bias</strong><br /><br />Make the contract clear first, keep ownership close to the code that needs it, and leave enough structure for the product to grow without turning every change into archaeology.</td>
+    <td width="42%"><strong>Right now</strong><br /><br /><img src="https://img.shields.io/badge/OPEN%20TO-build-16a34a?style=flat-square&labelColor=111827" alt="Open to build" /><br /><br />Backend-first products with useful frontend details.</td>
   </tr>
 </table>
 
 <br />
 
-## The stack I reach for
+## The signal map
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,spring,php,laravel,python,react,html,css,bootstrap,js,postgres,mysql,aws,docker,github,postman,vscode,idea&theme=dark" alt="Technology stack" />
 </p>
 
-<table>
-  <tr>
-    <td><strong>Backend</strong><br />Java 21 · Spring Boot · Laravel · PHP · Python</td>
-    <td><strong>Data</strong><br />PostgreSQL · MySQL · MariaDB · SQL design</td>
-    <td><strong>Workflow</strong><br />Docker · Postman · GitHub · JetBrains · VS Code</td>
-  </tr>
-</table>
+| I spend time on | The useful version of it |
+| --- | --- |
+| **API architecture** | REST endpoints, DTOs, validation, errors and service boundaries. |
+| **Data-heavy flows** | Import, search, mapping rules and persistence logic that stays correct. |
+| **Product polish** | Small UI details, documentation and developer experience that reduce friction. |
 
 <br />
 
 ## Selected builds
 
-| Project | What it says about my work |
-| --- | --- |
-| [Doctor Appointment Booking System](https://github.com/Newbie1402/Doctor-Appointment-Booking-System) | Scheduling, users and business rules brought into one usable flow. |
-| [Boilerplate Spring Boot](https://github.com/Newbie1402/Boilerplate_SpringBoot) | A structured starting point for APIs that need to remain maintainable. |
-| [EV Battery Swap Station](https://github.com/Newbie1402/EV_Battery_SwapStation_MS) | Service boundaries and operational flows for a data-heavy domain. |
-| [Service Koi](https://github.com/Newbie1402/Service-Koi) | A practical service platform with attention to the details around the core logic. |
+<table>
+  <tr>
+    <td width="50%"><a href="https://github.com/Newbie1402/Doctor-Appointment-Booking-System"><strong>Doctor Appointment Booking System</strong></a><br /><br />Scheduling, users and business rules brought into one usable flow.<br /><br /><img src="https://img.shields.io/github/languages/top/Newbie1402/Doctor-Appointment-Booking-System?style=flat-square&labelColor=111827" alt="Primary language" /></td>
+    <td width="50%"><a href="https://github.com/Newbie1402/Boilerplate_SpringBoot"><strong>Boilerplate Spring Boot</strong></a><br /><br />A structured starting point for APIs that need to remain maintainable.<br /><br /><img src="https://img.shields.io/github/languages/top/Newbie1402/Boilerplate_SpringBoot?style=flat-square&labelColor=111827" alt="Primary language" /></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/Newbie1402/EV_Battery_SwapStation_MS"><strong>EV Battery Swap Station</strong></a><br /><br />Service boundaries and operational flows for a data-heavy domain.<br /><br /><img src="https://img.shields.io/github/languages/top/Newbie1402/EV_Battery_SwapStation_MS?style=flat-square&labelColor=111827" alt="Primary language" /></td>
+    <td><a href="https://github.com/Newbie1402/Service-Koi"><strong>Service Koi</strong></a><br /><br />A practical service platform with attention to the details around the core logic.<br /><br /><img src="https://img.shields.io/github/languages/top/Newbie1402/Service-Koi?style=flat-square&labelColor=111827" alt="Primary language" /></td>
+  </tr>
+</table>
 
 <br />
 
-## A few things I keep close
+## A feature, from first thought to shipped shape
 
 <p align="center">
-  <a href="https://github.com/Newbie1402/Doctor-Appointment-Booking-System"><img src="https://img.shields.io/github/stars/Newbie1402/Doctor-Appointment-Booking-System?style=for-the-badge&label=DOCTOR%20BOOKING&color=f5d06f&labelColor=111827" alt="Doctor Appointment Booking System" /></a>
-  <a href="https://github.com/Newbie1402/Boilerplate_SpringBoot"><img src="https://img.shields.io/github/stars/Newbie1402/Boilerplate_SpringBoot?style=for-the-badge&label=SPRING%20BOOT%20BASE&color=22d3ee&labelColor=111827" alt="Spring Boot boilerplate" /></a>
-  <a href="https://github.com/Newbie1402/EV_Battery_SwapStation_MS"><img src="https://img.shields.io/github/stars/Newbie1402/EV_Battery_SwapStation_MS?style=for-the-badge&label=EV%20SWAP%20SYSTEM&color=8b5cf6&labelColor=111827" alt="EV Battery Swap Station" /></a>
+  <img src="https://img.shields.io/badge/01-understand%20the%20flow-8b5cf6?style=for-the-badge&labelColor=111827" alt="Understand the flow" />
+  <img src="https://img.shields.io/badge/02-define%20ownership-22d3ee?style=for-the-badge&labelColor=111827" alt="Define ownership" />
+  <img src="https://img.shields.io/badge/03-make%20data%20predictable-f5d06f?style=for-the-badge&labelColor=111827" alt="Make data predictable" />
 </p>
 
-<br />
-
-## How I think about a feature
-
-```text
-understand the flow  ->  define ownership  ->  make the data predictable
-        API contract  ->  service logic     ->  persistence + useful UI detail
-```
-
-The goal is simple: build backend-first products that are easy to extend, explain and trust later.
+<p align="center">
+  <sub>API contract → service logic → persistence → useful UI detail</sub>
+</p>
 
 <br />
 
@@ -101,14 +94,10 @@ The goal is simple: build backend-first products that are easy to extend, explai
 
 <br />
 
-## Current direction
-
 > Build useful software, keep the logic boring, and make the product feel considered.
 
 <p align="center">
-  <a href="https://portfolio-fawn-kappa-66.vercel.app/">See the portfolio</a>
-  ·
-  <a href="https://github.com/Newbie1402?tab=repositories">Browse the repositories</a>
+  <a href="https://portfolio-fawn-kappa-66.vercel.app/"><strong>See the portfolio →</strong></a>
 </p>
 
 <!-- RepoBeats is repo-specific and needs its generated URL from https://repobeats.axiom.co/. -->
