@@ -1,0 +1,47 @@
+<svg width="900" height="640" viewBox="0 0 900 640" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Newbie1402 stack slide</title>
+  <desc id="desc">A slide showing Newbie1402 backend, database, frontend, and workflow skills.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="900" y2="640" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#020617"/>
+      <stop offset="0.52" stop-color="#071A18"/>
+      <stop offset="1" stop-color="#06111F"/>
+    </linearGradient>
+    <linearGradient id="neon" x1="70" y1="70" x2="830" y2="570" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#22C55E"/>
+      <stop offset="0.58" stop-color="#14B8A6"/>
+      <stop offset="1" stop-color="#38BDF8"/>
+    </linearGradient>
+  </defs>
+  <rect width="900" height="640" rx="34" fill="url(#bg)"/>
+  <path d="M70 94H830" stroke="#1E293B"/>
+  <path d="M70 548H830" stroke="#1E293B"/>
+  <text x="78" y="78" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="900" fill="#64748B">02 / STACK THAT SHIPS</text>
+  <text x="78" y="138" font-family="Arial, Helvetica, sans-serif" font-size="44" font-weight="900" fill="#F8FAFC">From API contract</text>
+  <text x="78" y="190" font-family="Arial, Helvetica, sans-serif" font-size="44" font-weight="900" fill="#F8FAFC">to database flow.</text>
+  <text x="80" y="228" font-family="Arial, Helvetica, sans-serif" font-size="16" fill="#CBD5E1">Clear inputs, predictable errors, and data that stays consistent.</text>
+
+  <g transform="translate(78 270)">
+    <rect x="0" y="0" width="342" height="136" rx="22" fill="#0B1220" stroke="#1E293B"/>
+    <text x="28" y="40" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="900" fill="#86EFAC">BACKEND CORE</text>
+    <text x="28" y="78" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="900" fill="#F8FAFC">Java / Spring Boot</text>
+    <text x="28" y="112" font-family="Arial, Helvetica, sans-serif" font-size="15" fill="#94A3B8">PHP / Laravel / Python</text>
+
+    <rect x="374" y="0" width="342" height="136" rx="22" fill="#0B1220" stroke="#1E293B"/>
+    <text x="402" y="40" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="900" fill="#7DD3FC">DATA LAYER</text>
+    <text x="402" y="78" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="900" fill="#F8FAFC">PostgreSQL / MySQL</text>
+    <text x="402" y="112" font-family="Arial, Helvetica, sans-serif" font-size="15" fill="#94A3B8">MariaDB / SQL design</text>
+
+    <rect x="0" y="168" width="342" height="136" rx="22" fill="#0B1220" stroke="#1E293B"/>
+    <text x="28" y="208" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="900" fill="#CBD5E1">PRODUCT SURFACE</text>
+    <text x="28" y="246" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="900" fill="#F8FAFC">React / JavaScript</text>
+    <text x="28" y="280" font-family="Arial, Helvetica, sans-serif" font-size="15" fill="#94A3B8">HTML / CSS / Bootstrap</text>
+
+    <rect x="374" y="168" width="342" height="136" rx="22" fill="#0B1220" stroke="#1E293B"/>
+    <text x="402" y="208" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="900" fill="#86EFAC">DAILY WORKFLOW</text>
+    <text x="402" y="246" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="900" fill="#F8FAFC">Docker / Postman</text>
+    <text x="402" y="280" font-family="Arial, Helvetica, sans-serif" font-size="15" fill="#94A3B8">GitHub / JetBrains / VS Code / AWS basics</text>
+  </g>
+
+  <rect x="78" y="574" width="744" height="3" rx="1.5" fill="url(#neon)"/>
+</svg>
