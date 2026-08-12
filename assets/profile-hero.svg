@@ -70,12 +70,13 @@
     <text x="0" y="302" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#CBD5E1">Spring Boot • Laravel • React basics</text>
   </g>
 
-  <g transform="translate(472 106)">
+  <g transform="translate(440 106)">
     <text x="0" y="48" font-family="Arial, Helvetica, sans-serif" font-size="62" font-weight="900" fill="#F8FAFC">Newbie1402</text>
     <text x="4" y="88" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700" fill="#86EFAC">Clean backend systems with a touch of frontend taste.</text>
-    <text x="4" y="130" font-family="Arial, Helvetica, sans-serif" font-size="16" fill="#CBD5E1">I design APIs, service layers, and database-backed flows that stay readable when products grow.</text>
+    <text x="4" y="128" font-family="Arial, Helvetica, sans-serif" font-size="16" fill="#CBD5E1">I design APIs, service layers, and database flows</text>
+    <text x="4" y="154" font-family="Arial, Helvetica, sans-serif" font-size="16" fill="#CBD5E1">that stay readable when products grow.</text>
 
-    <g transform="translate(4 170)">
+    <g transform="translate(4 184)">
       <rect x="0" y="0" width="174" height="44" rx="12" fill="#111827" stroke="#1F2937"/>
       <text x="18" y="28" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="800" fill="#22C55E">REST APIs</text>
       <rect x="190" y="0" width="194" height="44" rx="12" fill="#111827" stroke="#1F2937"/>
@@ -84,10 +85,12 @@
       <text x="418" y="28" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="800" fill="#CBD5E1">PostgreSQL</text>
     </g>
 
-    <g transform="translate(4 250)">
+    <g transform="translate(4 264)">
       <path d="M0 0H596" stroke="#1E293B"/>
       <text x="0" y="40" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700" fill="#64748B">CURRENT SIGNAL</text>
-      <text x="0" y="76" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="800" fill="#F8FAFC">Build useful software, keep the logic boring, make the product feel sharp.</text>
+      <text x="0" y="74" font-family="Arial, Helvetica, sans-serif" font-size="23" font-weight="800" fill="#F8FAFC">Build useful software.</text>
+      <text x="0" y="108" font-family="Arial, Helvetica, sans-serif" font-size="23" font-weight="800" fill="#F8FAFC">Keep the logic boring.</text>
+      <text x="0" y="142" font-family="Arial, Helvetica, sans-serif" font-size="23" font-weight="800" fill="#F8FAFC">Make the product feel sharp.</text>
     </g>
   </g>
 </svg>

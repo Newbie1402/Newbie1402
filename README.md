@@ -1,4 +1,8 @@
 <p align="center">
+  <img src="https://github.com/Newbie1402.png" width="118" alt="Newbie1402 avatar" />
+</p>
+
+<p align="center">
   <img src="./assets/profile-hero.svg" alt="Newbie1402 developer profile skin" />
 </p>
 
@@ -26,3 +30,8 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Newbie1402&theme=github-compact&hide_border=true&area=true&bg_color=020617&color=CBD5E1&line=16A34A&point=38BDF8&area_color=16A34A" alt="Newbie1402 contribution graph" />
 </p>
+
+<!--
+RepoBeats can be embedded after generating a repo-specific image URL from https://repobeats.axiom.co/.
+It requires GitHub login, so this README does not include a generic Repobeats landing-page link as an image.
+-->
