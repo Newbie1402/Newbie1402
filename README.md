@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/profile-hero-v13.svg" alt="Newbie1402 backend portfolio hero" />
+  <img src="./assets/profile-hero-v14.svg" alt="Newbie1402 — Backend Portfolio 2026 | Java 21 · Spring Boot · Laravel · SQL" />
 </p>
 
 <p align="center">
